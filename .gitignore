@@ -1,0 +1,7 @@
+__pycache__
+.pytest_cache
+assets
+report.html
+report.txt
+tds_notes*
+.env
